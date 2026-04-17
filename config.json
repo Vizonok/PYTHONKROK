@@ -1,0 +1,7 @@
+{
+  "file_name": "sample_text.txt",
+  "dest_lang": "en",
+  "module_name": "module_gtrans4",
+  "output": "screen",
+  "sentence_count": 3
+}
